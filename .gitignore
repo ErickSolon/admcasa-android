@@ -1,0 +1,48 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Captures
+captures/
+
+# Generated files
+.externalNativeBuild/
+.cxx/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android generated files
+*/build/
+
+# Kotlin (caso use alguma biblioteca Kotlin)
+*.kotlin_module
+
+# NDK
+obj/
+
+# APKs e Bundles
+*.apk
+*.aab
+
+# Profiling
+*.hprof
